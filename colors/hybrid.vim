@@ -102,9 +102,9 @@ if has("gui_running")
   let s:darkpurple = "#5f005f"
 else
   let s:vmode      = "cterm"
-  let s:background = "234"
+  let s:background = "235"
   let s:window     = "236"
-  let s:darkcolumn = "234"
+  let s:darkcolumn = "235"
   let s:addbg      = "65"
   let s:addfg      = "193"
   let s:changebg   = "60"
